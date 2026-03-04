@@ -3,7 +3,7 @@
 **Machine Learning & Systems Engineer | Edge AI, Sensor Fusion, Signal Processing & Robust Deployment**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nikitamandal03/) 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-success.svg)](mailto:mandal.n@northeastern.edu)
+📧 **mandal.n@northeastern.edu**
 
 I am an ML Engineer focused on deploying high-performance deep learning models to resource-constrained edge devices. My engineering philosophy is rooted in systems reliability: before specializing in AI, I spent two years designing **SIL4 safety-critical Train Control Systems at Alstom**. I don't just optimize for accuracy in a notebook; I optimize for fail-safe execution, deterministic latency, and real-world edge cases.
 
