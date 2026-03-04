@@ -27,24 +27,24 @@ Currently wrapping up my MS in Electrical and Computer Engineering at **Northeas
 Engineered a custom C++ inference engine from scratch to bypass Python's GIL for real-time robotic perception.
 * **Impact:** Increased throughput by **1.36x (15.0 FPS to 45.0 FPS)** on CPU-only hardware and implemented zero-copy memory management.
 * **Tech Stack:** `C++`, `ONNX Runtime`, `OpenCV`, `CMake`, `YOLO11`
-* [View Repository ->](#) *https://github.com/NikkiMandal/yolo11-cpp-inference*
+* [View Repository ->](https://github.com/NikkiMandal/yolo11-cpp-inference) 
 
 ### 2. Real-Time Spectral Signal Decoder (BrainStorm Hackathon - 2nd Place)
 Designed a real-time causal streaming pipeline to classify high-density ECoG sensor data for brain-computer interfaces.
 * **Impact:** Won 2nd place by compressing the model size to **150KB (16x reduction)** to fit wearable memory limits, while hitting a strict **35ms latency budget**.
 * **Tech Stack:** `PyTorch`, `Signal Processing (FFT)`, `TorchScript JIT`, `Model Compression`
-* [View Repository ->](#) *https://github.com/NikkiMandal/neural-decoder-challenge*
+* [View Repository ->](https://github.com/NikkiMandal/neural-decoder-challenge) 
 
 ### 3. End-to-End MLOps Pipeline for Continuous Deployment
 Architected an automated ML pipeline on the cloud for time-series anomaly detection and forecasting.
 * **Impact:** Reduced manual retraining by **80%** using statistical data drift triggers (K-S test) and accelerated release cycles by **40%** via containerized CI/CD workflows.
 * **Tech Stack:** `GCP (Vertex AI)`, `Apache Airflow`, `Docker`, `FastAPI`, `MLflow`
-* [View Repository ->](#) *https://github.com/NikkiMandal/Ozone_Level_Detection*
+* [View Repository ->](https://github.com/NikkiMandal/Ozone_Level_Detection) 
 
 ### 4. Adversarial Robustness in Safety-Critical Vision Models
 Investigated edge-case failures and safety vulnerabilities in deploying deep learning models for high-reliability systems.
 * **Impact:** Engineered a hybrid defense strategy recovering **>75% robustness** under rigorous PGD sensor attacks, proving Vision Transformers are **11% more resilient** to localized noise than CNNs.
 * **Tech Stack:** `Vision Transformers (ViT)`, `CNNs`, `Adversarial ML (PGD/Patch)`
-* [View Repository ->](#) *https://github.com/NikkiMandal/Adversarial-attacks-and-defence-on-Medical-Data*
+* [View Repository ->](https://github.com/NikkiMandal/Adversarial-attacks-and-defence-on-Medical-Data)
 
 ---
